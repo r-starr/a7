@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/treasurehunt.unity
+    guid: 1df503856efc68b4c8f4b376d3e07263
   m_configObjects: {}
